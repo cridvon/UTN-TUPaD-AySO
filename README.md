@@ -19,3 +19,13 @@ Este trabajo práctico tiene como objetivo demostrar el proceso de instalación 
 Posteriormente, se verifica la instalación del lenguaje **Python** y se desarrolla un programa simple que permite calcular el promedio de una serie de números ingresados por el usuario.
 
 Esta práctica busca reforzar competencias técnicas en virtualización, uso de sistemas Linux y programación básica en Python.
+
+---
+
+## 📚 Recursos
+
+- **Entregable del trabajo:** Trabajo Práctico – Virtualización con VirtualBox.pdf
+- **Programa escrito en Python:** promedios.py
+- **Capturas de pantalla:** ScreenShots
+- **Link al video de YouTube:** https://www.youtube.com/watch?v=eJMleTkNU9o
+  
